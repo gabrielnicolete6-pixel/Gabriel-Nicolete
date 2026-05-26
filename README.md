@@ -1,3 +1,4 @@
+* Gabriel Nicolete
 🚀 Tecnologias & Ferramentas
 🎨 Design & Prototipação
 <p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
